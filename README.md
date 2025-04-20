@@ -1,0 +1,1 @@
+Dış kullanıcılara dağıtılacak client uygulamalarında, kaynak koda pre-shared key gömmeye gerek kalmadan, sunucuyla şifreli haberleşme sağlayabilen ve uygulama içinde kullanılabilecek anahtarları üretebilen; ayrıca sunucuyla senkronize çalışarak merkezi bir key altyapısından anahtar elde edebilen basit ve güvenli bir algoritma.
